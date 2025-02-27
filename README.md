@@ -1,90 +1,75 @@
-<h1 align="center">Hey there! 👋 I'm Utkarsh Sagar</h1>
+# Hey there 👋 My name is Utkarsh Sagar. 💻
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh-sagar-601a691b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Sagar-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:sagarutkarsh1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sagarutkarsh1%40gmail.com-red?style=flat&logo=gmail" alt="Email">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarutkarsh1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarutkarsh1@gmail.com)
 
----
+🌱 I'm currently exploring: Data Science and AI, focusing on building LLM-based applications and RAG systems.
 
-### 🚀 About Me  
-I am a **Data Scientist at Katonic AI** with expertise in **MLOps, Generative AI, and NLP**. Passionate about **building AI-driven applications**, optimizing **Retrieval-Augmented Generation (RAG) systems**, and **fine-tuning Large Language Models (LLMs)**.
+💬 Ask me about: Python, RAG, LLMs, Langchain, Machine Learning, NLP, or Prompt Engineering.
 
-🔍 **Current Focus**: Enhancing **AI-powered document processing**, **vector search**, and **efficient LLM retrieval strategies**.
+⚡ Fun fact: 30% improvement in chatbot performance isn't just a number - it's the difference between a frustrated user and a delighted client!
 
-💬 **Ask me about**: AI, LLMs, NLP, MLOps, and everything in between!
+## 🔭 Languages
 
-⚡ **Fun fact**: AI might automate tasks, but creativity is irreplaceable! 😉
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+## 🛠️ Libraries & Tools I'm experienced with
 
-### 🔧 Tech Stack  
+### 🤖 For AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Llama-index](https://img.shields.io/badge/Llama_Index-AA42F1?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-#### 🏗️ **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![MLOps](https://img.shields.io/badge/-MLOps-blue?style=flat-square)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
-![Langchain](https://img.shields.io/badge/-Langchain-green?style=flat-square)  
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-purple?style=flat-square)  
+### 📊 For Data Processing & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
 
-#### 🚀 **AI & ML Tools**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-![FAISS](https://img.shields.io/badge/-FAISS-yellow?style=flat-square)  
-![Milvus](https://img.shields.io/badge/-Milvus-blueviolet?style=flat-square)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai&logoColor=white)  
+### 🌐 For Web Development & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-#### ☁️ **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-3E6BB3?style=for-the-badge&logoColor=white)
 
----
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 📌 Featured Projects  
+## 📝 Featured Projects
 
-🔹 **Agentic Chunking for Enhanced RAG Retrieval**  
-📌 Implemented **proposition-based chunking** for improved LLM comprehension.  
-📌 Optimized **retrieval strategies** using **Milvus** for fast vector search.  
+### 🧩 Advanced LLM-Based Chunking for Enhanced Retrieval
+* Implemented proposition-based chunking for optimized RAG systems
+* Used Milvus vector DB and cosine similarity search for efficient retrieval
+* Reduced hallucinations and improved context retention in AI responses
 
-🔹 **AI-Powered Image Question Answering Chatbot**  
-📌 Developed a **Streamlit-based chatbot** for image-based Q&A.  
-📌 Enhanced **OCR & NLP** capabilities for precise document analysis.  
+### ⚙️ Aircraft Engine RUL Prediction
+* Built predictive maintenance models for turbofan engines
+* Achieved 82% accuracy with Random Forest
+* Used MSE, RMSE, and R² metrics for model evaluation
 
-🔹 **Aircraft Engine Failure Prediction**  
-📌 Built an ML model predicting **Remaining Useful Life (RUL)** of engines.  
-📌 Achieved **82% accuracy** with optimized feature engineering.  
+### 🤖 RAG Chatbot Optimization
+* Eliminated latency bottlenecks and improved response times
+* Implemented Markdown table-based loader for better PDF processing
+* Boosted performance by 30% with vector stores and hybrid search
 
-🔹 **Automated Invoice Management System**  
-📌 AI-driven invoice validation for **fraud detection**.  
-📌 Integrated **OpenAI APIs** for intelligent document analysis.  
+## 🏆 Achievements
+* Bronze Medal in House Prices – Advanced Regression Techniques (Kaggle Competition)
+* 4 Star in SQL - Hacker Rank
 
----
+## 📚 Education
+* B.E. in Mechanical Engineering, R V College of Engineering, Bengaluru (2020-2024)
+* GPA: 8.23/10.00
 
-### 📊 GitHub Stats  
+## 📈 GitHub Stats
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshsagar&show_icons=true&theme=radical" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsagar&layout=compact&theme=radical" width="400px">
-</p>
-
----
-
-### 📜 Certifications & Achievements  
-✅ **Bronze Medal** in Kaggle House Prices Regression Competition  
-✅ **4-Star SQL** on HackerRank  
-✅ **ChatGPT Prompt Engineering for Developers** (deeplearning.ai)  
-✅ **The Joy of Computing with Python** (NPTEL – IIT Ropar)  
-
----
-
-### 🤝 Connect with Me  
-📩 Email: **sagarutkarsh1@gmail.com**  
-🔗 LinkedIn: [Utkarsh Sagar](https://www.linkedin.com/in/utkarsh-sagar-601a691b7)  
-
-🚀 **Let’s collaborate and build something impactful!**  
+> *Note: Don't forget to replace "YOUR_USERNAME" with your actual GitHub username in the stats widgets*
